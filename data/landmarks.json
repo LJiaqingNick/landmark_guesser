@@ -1,0 +1,47 @@
+[
+    {
+        "name": "CN Tower", 
+        "hints": [
+            "It was once the world's tallest freestanding structure.",
+            "Located in Canada's largest city.",
+            "Features a glass floor and a revolving restaurant."
+        ],
+        "image": "images/cn_tower.jpg"
+    },
+    {
+        "name": "Banff National Park", 
+        "hints": [
+            "Located in the province of Alberta.",
+            "Known for its stunning mountain landscapes and turquoise lakes.",
+            "A popular destination for hiking and wildlife spotting."
+        ],
+        "image": "images/banff_national_park.jpeg"
+    },
+    {
+        "name": "Parliament Hill", 
+        "hints": [
+            "Located in the capital city of Canada.",
+            "Home to the federal government.",
+            "Features the iconic Peace Tower."
+        ],
+        "image": "images/parliament_hill.jpg"
+    },
+    {
+        "name": "Peggy's Cove", 
+        "hints": [
+            "A famous lighthouse on the eastern coast of Canada.",
+            "Located in the province of Nova Scotia.",
+            "Popular tourist destination known for its rocky coastline."
+        ],
+        "image": "images/peggys_cove.jpeg"
+    },
+    {
+        "name": "Capilano Suspension Bridge", 
+        "hints": [
+            "Located in British Columbia.",
+            "A pedestrian suspension bridge crossing the Capilano River.",
+            "Offers a treetop adventure and cliffwalk for visitors."
+        ],
+        "image": "images/capilano_bridge.jpeg"
+    }
+]
