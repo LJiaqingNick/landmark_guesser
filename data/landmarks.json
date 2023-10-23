@@ -1,6 +1,7 @@
 [
     {
         "name": "CN Tower", 
+        "options": ["Eiffel Tower", "CN Tower", "Empire State Building"],
         "hints": [
             "It was once the world's tallest freestanding structure.",
             "Located in Canada's largest city.",
@@ -10,6 +11,7 @@
     },
     {
         "name": "Banff National Park", 
+        "options": ["Yellowstone National Park", "Yosemite National Park", "Banff National Park"],
         "hints": [
             "Located in the province of Alberta.",
             "Known for its stunning mountain landscapes and turquoise lakes.",
@@ -19,6 +21,7 @@
     },
     {
         "name": "Parliament Hill", 
+        "options": ["White House", "Parliament Hill", "Big Ben"],
         "hints": [
             "Located in the capital city of Canada.",
             "Home to the federal government.",
@@ -28,6 +31,7 @@
     },
     {
         "name": "Peggy's Cove", 
+        "options": ["Cape Hatteras Light", "Peggy's Cove", "Cape Byron Lighthouse"],
         "hints": [
             "A famous lighthouse on the eastern coast of Canada.",
             "Located in the province of Nova Scotia.",
@@ -37,6 +41,7 @@
     },
     {
         "name": "Capilano Suspension Bridge", 
+        "options": ["Golden Gate Bridge", "Sydney Harbour Bridge", "Capilano Suspension Bridge"],
         "hints": [
             "Located in British Columbia.",
             "A pedestrian suspension bridge crossing the Capilano River.",
